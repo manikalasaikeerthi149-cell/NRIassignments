@@ -1,0 +1,2 @@
+# NRIassignments
+all training assignments
