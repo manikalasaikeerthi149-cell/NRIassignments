@@ -4,3 +4,6 @@
 [submodule "college-event-management-api"]
 	path = college-event-management-api
 	url = https://github.com/manikalasaikeerthi149-cell/college-event-management-api.git
+[submodule "student-crud-api"]
+	path = student-crud-api
+	url = https://github.com/manikalasaikeerthi149-cell/student-crud-api.git
