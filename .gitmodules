@@ -1,3 +1,6 @@
 [submodule "NRI-University"]
 	path = NRI-University
 	url = https://github.com/manikalasaikeerthi149-cell/NRI-University.git
+[submodule "college-event-management-api"]
+	path = college-event-management-api
+	url = https://github.com/manikalasaikeerthi149-cell/college-event-management-api.git
